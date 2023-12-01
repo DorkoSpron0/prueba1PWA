@@ -1,0 +1,17 @@
+{
+    "name": "Prueba con PWA muy basico manin",
+    "short_name": "Prueba con PWA",
+    "theme_color":"#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./foto_linda.png",
+            "type": "image/png",
+            "sizes": "483x486"
+        }
+    ]
+}
