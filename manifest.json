@@ -9,9 +9,9 @@
     "start_url": "./",
     "icons": [
         {
-            "src": "./foto_linda.png",
+            "src": "./9796672.png",
             "type": "image/png",
-            "sizes": "483x486"
+            "sizes": "512x512"
         }
     ]
 }
